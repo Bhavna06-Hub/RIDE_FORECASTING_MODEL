@@ -1,5 +1,8 @@
 # RIDE_FORECASTING_MODEL
 
+🔗 **Live App:**  
+https://rideforecastingmodel-8fobxjezgukcsnbgsu4rdg.streamlit.app/
+
 📌 Project Overview
 
 Ride demand forecasting is critical for ride-hailing platforms like Ola to ensure optimal driver allocation, reduced wait times, and efficient surge management.
